@@ -2,53 +2,87 @@
   <img src="./assets/header.png" alt="Hello! I'm Anil" width="700">
 </p>
 
-## About Me
+<br>
 
-I'm an **Electronics and Communication Engineering** student who found my way between the core and software worlds — so I chose **Embedded Systems**. :)
+<h3>About Me</h3>
 
-I like working close to the hardware while still getting to write software, experiment with ideas, and make things work.
+I'm an **Electronics and Communication Engineering** student who found myself somewhere between the core and software worlds — so I chose **Embedded Systems**.
 
-## Embedded Systems 🐇
+I like being close to the hardware while still getting to write software, experiment with ideas, and make things work.
 
-<p>
-  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="80">
-</p>
+<br>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="middle">
 
 Currently learning and experimenting with:
 
 * **CAN Communication**
 * **APIs**
 * **CLI**
-* Embedded software & hardware
 
-## How I Code
+</td>
+<td width="40"></td>
+<td valign="middle">
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="65">
+</td>
+</tr>
+</table>
 
-I'm a bit of a **vibe coder**.
+<br>
 
-I don't just code — **I ask for the code.**
-Then I figure out what it does, break it, fix it, and learn from it.
+<h3>Hobbies</h3>
 
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="120">
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="middle">
 
-## My Philosophy
+I build, learn, improve things.
 
-**I build, learn, improve things.**
+Sometimes they work.
+If they don't, they will!!!
 
-## Ask Me
+</td>
+<td width="40"></td>
+<td valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="75">
+</td>
+</tr>
+</table>
 
-Want to talk about a project, embedded systems, random experiments, or just have an idea you want to build?
+<br>
 
-<p>
-  <a href="mailto:anilgowd42637@gmail.com">
-    <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Gmail%20Thug.gif" width="80">
-  </a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="middle">
 
-**[anilgowd42637@gmail.com](mailto:anilgowd42637@gmail.com)**
+I create playlists for pretty much every mood.
 
----
+**Wanna share playlists? 🎧**
+
+[Listen to my playlists →](https://open.spotify.com/user/t0sz596b8etctbt3y6hevkv7i)
+
+</td>
+<td width="40"></td>
+<td valign="middle">
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Musical%20Notes.png" width="55">
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3>A Quote I Like</h3>
+
+> **"The most personal is the most creative."**
+> — Martin Scorsese
+
+<br>
+
+💬 **Ask me about anything [here](mailto:anilgowd42637@gmail.com).**
+
+<br>
 
 <p align="center">
   <sub>Still experimenting. Still learning. Still building.</sub>
