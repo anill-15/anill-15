@@ -27,10 +27,6 @@ A hardware implementation of a **Multiply-Accumulate (MAC) unit** using Verilog 
 
 🔗 [View MAC-UNIT](https://github.com/anill-15/MAC-UNIT)
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anill-15&theme=transparent"/>
-
 ## 🛠️ Technologies & Tools
 
 ```text
