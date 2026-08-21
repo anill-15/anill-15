@@ -2,42 +2,54 @@
   <img src="./assets/header.png" alt="Hello! I'm Anil" width="700">
 </p>
 
-<br>
+## About Me
 
-### About
+I'm an **Electronics and Communication Engineering** student who found my way between the core and software worlds — so I chose **Embedded Systems**. :)
 
-I'm interested in understanding how things work, building them myself, and experimenting with different ideas along the way.
+I like working close to the hardware while still getting to write software, experiment with ideas, and make things work.
 
-### Currently
+## Embedded Systems 🐇
 
-* Exploring digital design and computer architecture
-* Building with Verilog / HDL
-* Experimenting with hardware architectures
-* Turning ideas into small, practical projects
+<p>
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="80">
+</p>
 
-### Learning
+Currently learning and experimenting with:
 
-* Digital Design
-* Computer Architecture
-* VLSI
-* Verilog / HDL
-* Hardware & System Design
+* **CAN Communication**
+* **APIs**
+* **CLI**
+* Embedded software & hardware
 
-### Interests
+## How I Code
 
-`Hardware` · `VLSI` · `Digital Systems` · `Computer Architecture` · `Programming` · `xperiments`
+I'm a bit of a **vibe coder**.
 
-### Projects
+I don't just code — **I ask for the code.**
+Then I figure out what it does, break it, fix it, and learn from it.
 
-**[MAC-UNIT](https://github.com/anill-15/MAC-UNIT)**
-A Verilog-based Multiply-Accumulate unit using a 16-bit Vedic Multiplier and Kogge-Stone Adder.
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="120">
+</p>
 
-### Contact
+## My Philosophy
 
-📧 [anilgowd42637@gmail.com](mailto:anilgowd42637@gmail.com)
+**I build, learn, improve things.**
 
-<br>
+## Ask Me
+
+Want to talk about a project, embedded systems, random experiments, or just have an idea you want to build?
+
+<p>
+  <a href="mailto:anilgowd42637@gmail.com">
+    <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Gmail%20Thug.gif" width="80">
+  </a>
+</p>
+
+**[anilgowd42637@gmail.com](mailto:anilgowd42637@gmail.com)**
+
+---
 
 <p align="center">
-  <sub>Learning by building.</sub>
+  <sub>Still experimenting. Still learning. Still building.</sub>
 </p>
