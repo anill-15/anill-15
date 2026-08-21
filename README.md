@@ -7,27 +7,15 @@ I'm a curious builder exploring the intersection of **hardware, software, and sy
 ## 🚀 What I'm Working On
 
 * Building and improving technical projects
-* Exploring **digital design and hardware systems**
-* Working with **Verilog / HDL**
-* Experimenting with efficient hardware architectures
 * Making my projects more practical, polished, and presentable
 
 ## 📚 What I'm Learning
 
-* Digital Design
-* Computer Architecture
-* Verilog / HDL
-* VLSI & Hardware Design
-* Efficient arithmetic architectures
 * Software development and engineering practices
 
 ## 💡 Interests
 
-* 🖥️ Computer Architecture
-* 🔲 Digital & Hardware Design
-* ⚡ VLSI
-* 💻 Programming
-* 🧩 System Design
+* 🧩 System Design and Testing
 * 🔬 Experimenting with new technologies
 * 🛠️ Building projects from ideas
 
@@ -59,9 +47,15 @@ Programming
 
 I believe the best way to learn technology is to build something with it, understand why it works, and keep improving it.
 
-## 📫 Connect
+## 📫 Connect With Me
 
-* GitHub: [@anill-15](https://github.com/anill-15)
+<p align="left">
+  <a href="https://www.linkedin.com/in/anil-gowd-ediga-345341286/">
+    <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/linkedin-1.png" width="100">
+  </a>
+</p>
+
+📧 **Email:** [anilgowd42637@gmail.com](mailto:anilgowd42637@gmail.com)
 
 ---
 
