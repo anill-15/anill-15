@@ -53,29 +53,10 @@ If they don't, they will!!!
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="middle">
-
-
-</td>
-<td width="40"></td>
-<td valign="middle">
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Musical%20Notes.png" width="55">
-</td>
-</tr>
-</table>
-
-<br>
-
 <h3>A Quote I Like</h3>
 
 > **"The most personal is the most creative."**
 > — Martin Scorsese
-
-<br>
-
-💬 **Ask me about anything [here](mailto:anilgowd42637@gmail.com).**
 
 <br>
 
