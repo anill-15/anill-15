@@ -12,44 +12,32 @@ I like being close to the hardware while still getting to write software, experi
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="middle">
+<p>
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="65" align="right">
 
-Currently learning and experimenting with:
+  Currently learning and experimenting with:
+</p>
 
-* **CAN Communication**
-* **APIs**
-* **CLI**
-
-</td>
-<td width="40"></td>
-<td valign="middle">
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="65">
-</td>
-</tr>
-</table>
+<ul>
+  <li><strong>CAN Communication</strong></li>
+  <li><strong>APIs</strong></li>
+  <li><strong>CLI</strong></li>
+</ul>
 
 <br>
 
 <h3>Hobbies</h3>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="middle">
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="75" align="right">
 
-I build, learn, improve things.
+  I build, learn, improve things.
+</p>
 
-Sometimes they work.
-If they don't, they will!!!
-
-</td>
-<td width="40"></td>
-<td valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="75">
-</td>
-</tr>
-</table>
+<p>
+  Sometimes they work.<br>
+  If they don't, they will!!!
+</p>
 
 <br>
 
