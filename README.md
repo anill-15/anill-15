@@ -57,11 +57,6 @@ If they don't, they will!!!
 <tr>
 <td valign="middle">
 
-I create playlists for pretty much every mood.
-
-**Wanna share playlists? 🎧**
-
-[Listen to my playlists →](https://open.spotify.com/user/t0sz596b8etctbt3y6hevkv7i)
 
 </td>
 <td width="40"></td>
