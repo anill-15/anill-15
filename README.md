@@ -12,32 +12,52 @@ I like being close to the hardware while still getting to write software, experi
 
 <br>
 
-<p>
-  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="65" align="right">
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td style="border: none; padding: 0;" valign="middle">
 
-  Currently learning and experimenting with:
-</p>
+Currently learning and experimenting with:
 
 <ul>
-  <li><strong>CAN Communication</strong></li>
-  <li><strong>APIs</strong></li>
-  <li><strong>CLI</strong></li>
+<li><strong>CAN Communication</strong></li>
+<li><strong>APIs</strong></li>
+<li><strong>CLI</strong></li>
 </ul>
+
+</td>
+
+<td style="border: none; padding: 0 20px;" valign="middle"></td>
+
+<td style="border: none; padding: 0;" valign="middle">
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="65">
+</td>
+</tr>
+</table>
 
 <br>
 
 <h3>Hobbies</h3>
 
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="75" align="right">
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td style="border: none; padding: 0;" valign="middle">
 
-  I build, learn, improve things.
-</p>
+I build, learn, improve things.
 
-<p>
-  Sometimes they work.<br>
-  If they don't, they will!!!
-</p>
+<br>
+
+Sometimes they work.<br>
+If they don't, they will!!!
+
+</td>
+
+<td style="border: none; padding: 0 20px;" valign="middle"></td>
+
+<td style="border: none; padding: 0;" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="75">
+</td>
+</tr>
+</table>
 
 <br>
 
