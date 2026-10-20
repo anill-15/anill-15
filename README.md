@@ -12,19 +12,6 @@ I like being close to the hardware while still getting to write software, experi
 
 <br>
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none; padding: 0;" valign="middle">
-
-Currently learning and experimenting with:
-
-<ul>
-<li><strong>CAN Communication</strong></li>
-<li><strong>APIs</strong></li>
-<li><strong>CLI</strong></li>
-</ul>
-
-</td>
 
 <td style="border: none; padding: 0 20px;" valign="middle"></td>
 
